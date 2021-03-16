@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>loading</title>
+    <style>
+     
+        *{
+            margin:0;
+            padding:0;
+        }
+        html{
+            font-size:100%;
+
+        }
+        .main_div{
+            width: 100vw;
+            height: 100vh;
+            background-color:rgb(5, 5, 5);
+        
+            display: grid;
+            place-items:center;
+        }
+        .center_div{
+            width:15rem;
+            height: 15rem;
+            position: relative;
+            /*background-color: ;*/
+            
+            
+        }
+        .rot{ 
+            width:15rem;
+            height:15rem;
+            border-radius: 50%;
+           border-top: 0.5rem solid rgb(59, 134, 204);
+            border-bottom:0.5rem solid rgb(55, 207, 126);
+            border-right: 0.5rem solid rgb(179, 36, 36);
+             
+             
+             animation:spin 2s linear infinite;
+
+        }
+        @keyframes spin{
+            0%{
+                transform: rotate(0deg);
+            }
+            
+            100%{
+                transform:rotate(360deg);
+            }
+        }
+       
+       
+        img:hover {
+           
+           color: honeydew;
+           position:relative;
+
+           
+}
+        h1{
+            position: absolute;
+            top:50%;
+            left:50%;
+            transform:translate(-50%,-50%);
+            color: rgb(45, 138, 167);
+            
+        }
+          img{
+            width: 400px;
+            height:400px;
+            margin-top: 20%;
+           
+           
+            
+        }
+    </style>
+</head>
+<body>
+    <div class="main_div">
+        <div class="center_div">
+            <div class="rot">
+            
+            </div>
+         
+               <h1> <img src="rahul.svg"></h1>
+            
+        </div>
+
+    </div>
+</body>
+</html>
