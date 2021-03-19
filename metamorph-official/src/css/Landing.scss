@@ -1,0 +1,28 @@
+
+.one{
+    height: 90vh;
+    
+}
+.Hero{
+    
+flex: 1;
+margin: auto !important;
+display: flex;
+align-content: center;
+
+}
+.Robot{
+   
+}
+.hero1,.hero3{
+    color: white;
+}
+#hero2{
+    color: rgb(19, 201, 214);
+}
+@media screen and (max-width: 400px) {
+    .Hero{
+       padding-top: 17vh;
+       padding-bottom: 15vh;
+    }
+}
