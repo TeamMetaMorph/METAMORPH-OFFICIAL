@@ -1,7 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
 
 #ttl{
-    margin-top: 5vh;
     font-family: 'Berkshire Swash', cursive;
-    font-size: 4rem;
+
+
+}
+@media screen and (max-width: 400px) {
+.locandina{
+    display: none;
+}
+#heading{
+    font-size: 4vh;
+    
+}
 }

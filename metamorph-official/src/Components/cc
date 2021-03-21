@@ -1,0 +1,25 @@
+ <div class="card">
+
+            <div class="img-avatar">
+                <img src={Logo}></img>
+            </div>
+            <div class="card-text">
+                <div class="portada" style={{ backgroundImage: `url(${info.photo})` }}>
+
+                </div>
+                <div class="title-total">
+                    <div class="title">{info.cornerText}</div>
+                    <h2>{Text}</h2>
+
+                    <div class="desc">{info.Para}</div>
+                    <div class="actions">
+                        <button><i class="far fa-heart"></i></button>
+                        <button><i class="far fa-envelope"></i></button>
+                        <button><i class="fas fa-user-friends"></i></button>
+                    </div></div>
+
+            </div>
+
+
+
+        </div>

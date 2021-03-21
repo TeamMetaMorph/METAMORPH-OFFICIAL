@@ -1,0 +1,49 @@
+[
+    {
+
+
+        "id":1,
+        "cornertext":"Project_#1",
+        "Text":"Blood Group Typing",
+        "Para":"We are well aware of mandatory crossmatch tests required to examine the compatibility between donor and recipient blood groups during blood transfusion.They require visual inspection to monitor agglutination, since the visual inspection is no longer useful for obtaining precise quantitative information, different technology called MEMS are now being developed. MEMS based sensors are designed for detecting and sensing specific biomolecules. They are capable of determining the blood group of a person instantaneously using the kit in the medical field. Through this exhibition we will showcase this technology in the form of synthetic receptors for selectively detecting ABO subgroups.Our objective will be to demonstrate design and working of the proposed Bio-MEMS based Blood group sensor. And will discuss it as an alternative to Classical Strategies in Blood group typing along with it being portable, relatively inexpensive, environmentally benign in addition to the attributes of safety, eco-friendly and economy.",
+        "Description":"Sir will add",
+        "brcolor":"#800080",
+        "photo":"https://cdn.pixabay.com/photo/2021/03/02/17/38/science-6063326_960_720.png"
+    },
+    {
+        "id":2,
+        "cornertext":"Project_#2",
+        "Text":"E-Textiles",
+        "Para":"E-textiles are part of electronic components that create systems capable of sensing, heating, lighting and transmitting data. E-textiles also known as electronic textiles are fabrics that can function electrically as electronics and behave physically as textiles which enable computing, digital components and electronics to be embedded in them. They are referred to as intelligent clothing or smart clothing that allow for the incorporation of built-in technological elements in everyday textiles and clothes.E-textiles have an important role to play in the field of medicine, safety and protection.E-textiles have an important role to play in the field of medicine, safety and protection.The Carbon Blank ink demonstrates excellent electrical and mechanical properties. It has very high stability, repeatability and quick response for thermal fabric applications.",
+        "Description":"Sir will add",
+        "brcolor":"#00ffff",
+        "photo":"https://wallpaperaccess.com/full/3599451.jpg"
+    },
+    {
+        "id":3,
+        "cornertext":"Project_#3",
+        "Text":" Hydrophobic Treatment",
+        "Para":"A treatment for hydrophobic functionalization of natural fiber material is based mainly on natural products. There is growing interest in the development of natural fiber reinforced composites. It is because of their wide availability, low cost, environment friendliness and sustainability. The major factor limiting the large scale production of natural fibers composites include the tendency of natural fiber to absorb water, degradation of microorganisms and sunlight and ultimately low strength and service life.The natural fibre reinforced plastics are mostly used to produce structural components of automotive industry such as panels, doors, roofs, door panels and safety helmets etc.",
+        "Description":"Sir will add",
+        "brcolor":"#00ff00",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Water_drop_on_a_leaf.jpg"
+    },
+    {
+        "id":4,
+        "cornertext":"Project_#4",
+        "Text":"Transparent OLED",  
+        "Para":"Organic Light-Emitting Diode - a technology that uses LEDs in which the light is produced by organic molecules. Display based on Organic light emitting diodes are currently entering the market predominantly in mobile applications. Benefits of using OLED's are:- ~Improved image quality - better contrast, higher brightness, fuller viewing angle, a wider color range and much faster refresh rates. ~Lower power consumptionV~Simpler design that enables ultra-thin, flexible , foldable and transparent displays.The benefits which are beyond the reach of the current displays will be much better if OLED's display will  be transparent.",
+        "Description":"Sir will add",
+        "brcolor":"#ff0000",
+        "photo":"https://cdn.pixabay.com/photo/2021/02/07/19/56/tunnel-5992507_960_720.jpg"
+    },
+    {
+        "id":5,
+        "cornertext":"Project_#5",
+        "Text":"Spinodal Decomposition",
+        "Para":"Spinodal decomposition occurs when one thermodynamic phase spontaneously (i.e., without nucleation) separates into two phases. Decomposition occurs in the absence of nucleation because certain fluctuations in the system reduce the free energy. As a result, the phase change occurs immediately.On Al-zinc alloys the earliest observation was conducted. In binary alloys the system of CH(Cahn-Hilliard) equations is the leading model of spinodal decomposition. Uses of spinodal decomposition - ~processing of sodium Borosilicate glasses to produce an interconnected periodic two phase microstructure from which the sodium borate glass face can be leached  to yield a porous silica glass. ~ Polymers solutions can be decomposed within the spinodal and processed to produce materials with fine scale interconnected porosity structures that are useful in applications like microfiltration and in membranes for electrochemical systems such as batteries.",
+        "Description":"Sir will add",
+        "brcolor":"#00f5f5",
+        "photo":"https://cdn.pixabay.com/photo/2018/07/15/10/44/dna-3539309_960_720.jpg"
+    }
+]

@@ -2,8 +2,13 @@ import React, { useEffect, useRef } from 'react'
 import '../css/HomePage.scss'
 import Navbar from './Navbar'
 import Landing from './Landing'
+import Events from './Events'
+import Project from './Project'
+import Carousel from './Carousel'
 import gsap from 'gsap'
 import Gif from "../images/AB.svg"
+import InfoCard from './InfoCard'
+import Workshops from './Workshops'
 function HomePage() {
 
 
@@ -14,17 +19,27 @@ function HomePage() {
     //   tl.to('.hero-content', {x:1000, ease:"bounce.out", duration: 3, delay:3 })
     //   tl.to('#ball3', {x:1000, ease:"bounce.inOut", duration: 3, delay:6 })
     // }, []);
-
-
+  
     return (
-      <div className="Website">
-          <div>
-          <Navbar />
-          </div>
-          <div>
-          <Landing />
-          </div>
-      </div>
+        <div className="Website">
+            <div id="one">
+                <Navbar />
+            </div>
+            <div id="two">
+                <Landing />
+            </div>
+            {/* s */}
+            {/* <div>
+               <Project />
+            </div>
+            <div>
+                <Workshops />
+            </div> */}
+            <div>
+                <Events />
+            </div>
+        
+        </div>
     )
 }
 

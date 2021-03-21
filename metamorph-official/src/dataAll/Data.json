@@ -1,0 +1,36 @@
+[
+    {
+
+
+        "id":1,
+        "cornertext":"Event_#1",
+        "Text":"Alchemist",
+        "Para":"Team METAMORPH brings to you a very omnific and exhilarating event.In this event, participants will enter a virtual portal and provided with a challenge statement, as well as a plethora of seemingly everyday items. Using their knowledge about the properties of the materials the participants will have to pick one of given items and then provide an explanation for how they will solve the task with the material in hand. Choose correctly and move onto  the next level where another challenge statement awaits them until they complete all the rounds of increasing  complexity.",
+        "Description":"General Aptitude,Chemistry,Observation",
+        "brcolor":"#ff2800",
+        "photo":"https://wallpapersplanet.net/sites/default/files/black-and-red-abstract-wallpapers-33969-7240347.png"
+
+    },
+     
+    {
+        "id":2,
+        "cornertext":"Event_#2",
+        "Text":"Zoomed In",
+        "Para":"In this event you need to guess the object in the zoomed  image from  the options given and you will get 10  points for every single round. The winner will be announced having highest points at the end if there will be two participants of the same points then the one  with lesser time will be declared as winner. ",
+        "Description":"Sir will add",
+        "brcolor":"#0000cd",
+        "photo":"https://cdn.pixabay.com/photo/2017/11/11/11/30/chemistry-2938901_960_720.jpg"
+
+    },
+    
+    {
+        "id":3,
+        "cornertext":"Event_#3",
+        "Text":"What a Drag",
+        "Para":" This event is a knowledge grasping event with the combination of pleasure and invigorating events.The player's character is a globule (can be either hydrophilic and oleophobic(oil fearing) or oleophilic(oil-loving) and hydrophobic, player can choose any and have to stick with it.The globule resides in an emulsion universe i.e. a non-homogeneous mixture of oil and water bounded by the walls of the container. The player has to knock all the pins in the game (maybe throw them toward the wall so that they shatter.",
+        "Description":"sir will add",
+        "brcolor":"#",
+        "photo":"https://cdn.pixabay.com/photo/2019/03/15/00/25/liquid-4056190_960_720.png"
+
+    }
+]

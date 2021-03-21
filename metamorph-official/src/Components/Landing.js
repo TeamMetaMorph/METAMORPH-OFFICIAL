@@ -7,7 +7,7 @@ function Landing() {
             <div class="container-fluid">
                 <div class="row">
                     <div className="col-md-4 Hero">
-                        <div class="row mt-sm-6">
+                        <div class="row">
                             <h1 className="col-md-12 text-center  hero1">Team Metamorph<span id="hero2"> Fascilating.</span>.</h1>
                             <p className="col-md-12 text-center hero3">Technology Beyond Science</p>
                         </div>
