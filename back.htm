@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    
+    body{
+      margin:0;
+      padding:0;
+      height:100vh;
+      
+    }
+    #particles-js{
+      height:100%;
+      background-image:url("rahul.svg");
+      background-size:20%;
+      background-repeat: no-repeat;
+      background-position: 50%;
+      
+      background-color: black;
+    }
+    h1 {
+      
+      position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:cornsilk;
+  font-size:4em;
+  animation:animate 10s linear infinite;
+
+}
+@keyframes animate{
+  0%{
+    color:black;
+
+  }
+  100%{
+    color:white;
+  }
+}
+h1:hover span{
+  text-shadow:0 0 10px #fff, 
+              0 0 20px #fff,
+              0 0 30px #fff,
+              0 0 40px #fff,
+              0 0 50px #fff,
+              0 0 60px #fff,
+
+    
+    
+    
+    
+  </style>
+</head>
+<body>
+
+  <section>
+ 
+  <h1>
+  <span>M</span>
+  <span>E</span>
+  <span>T</span>
+  <span>A</span>
+  <span>M</span>
+  <span>O</span>
+  <span>R</span>
+  <span>P</span>
+  <span>H</span>
+
+
+
+  </h1>
+  <div id="particles-js"></div>
+  <script type="text/javascript"src="particles.js"></script>
+  <script type="text/javascript"src="app.js"></script>
+  
+</body>
+</html>
