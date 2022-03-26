@@ -14,7 +14,7 @@ function Events() {
                         {personList}
                </div>
            </div>
-        </div>
+        </div> 
     )
 }
 export default Events
